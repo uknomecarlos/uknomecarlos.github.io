@@ -1,0 +1,4 @@
+- Use bootstrap to create my website
+- my domain is CarlosACastro.me
+
+- Use examples from https://docs.google.com/presentation/d/1Iapy867ba4VWNzPxgEoqjHJpiiuFsF6wFkl1cGJiKzs/edit#slide=id.g2493bb2742_1_8
